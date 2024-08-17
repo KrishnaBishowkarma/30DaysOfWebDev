@@ -1,0 +1,60 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Operating system specific
+*.DS_Store
+*.appledouble
+*.LSOverride
+Icon?
+._*
+
+# Thumbnails
+*.log
+
+# Project-specific ignores
+*.sublime-workspace
+*.sublime-project
+*.project
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.swo
+*.swn
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Public directories (if using public folder in some setups)
+public/
